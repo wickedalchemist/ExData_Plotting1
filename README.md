@@ -1,3 +1,13 @@
+## Notes from wickedalchemist
+
+-I have uploaded the R scripts and pngs of each required plot. Naming convention is plotN.R and plotN.png for N=1-4. 
+
+-Each R script assumes that the user has downloaded the data file (https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip), and it is located in the working directory. 
+
+
+
+
+
 ## Introduction
 
 This assignment uses data from
